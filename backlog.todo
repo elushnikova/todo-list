@@ -1,0 +1,14 @@
+To do:
+  - Serve critical markup and resources without JS
+  - Store data and content in local storage
+  - Add CRUD for tasks
+  - Publish app on static site hosting
+  - Share code as open source
+
+Backlog:
+  - Add Russian localization
+  - Bulk create by inserting multiple tasks in form
+  - Honor reduced motion preference
+  - Support keyboard-oriented UX
+  - Reorder tasks with drag-n-drop
+  - Reduce bundle size (~500 kB)
