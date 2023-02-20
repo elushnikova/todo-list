@@ -46,6 +46,6 @@
     "@typescript-eslint/switch-exhaustiveness-check": "error",
     "@typescript-eslint/consistent-type-definitions": ["warn", "type"],
     "import/no-extraneous-dependencies": "off",
-    "no-console": "off"
+    "jsx-a11y/label-has-associated-control": ["error", { "assert": "either" }]
   }
 }
